@@ -1,4 +1,2 @@
 # hello-world
-The first test repository
-
-Hi. I am a wallet. The color is balck.
+Readme file in the first repository.
